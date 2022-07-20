@@ -2874,7 +2874,7 @@ mark.search-keyword {
 .fa-bilibili {
   background-image: url("/images/bilibili.svg");
   background-size: 1em 1em;
-  opacity: 0.55;
+  opacity: 1;
   background-position: 0.05rem 0.2rem;
   background-repeat: no-repeat;
   height: 1rem;
