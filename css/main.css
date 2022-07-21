@@ -2626,7 +2626,7 @@ mark.search-keyword {
   background: var(--content-bg-color);
   border-radius: initial;
   box-shadow: initial;
-  width: 240px;
+  width: 300px;
 }
 @media (max-width: 991px) {
   .header-inner {
@@ -2660,7 +2660,7 @@ mark.search-keyword {
 .main-inner {
   border-radius: initial;
   box-sizing: border-box;
-  width: calc(100% - 252px);
+  width: calc(100% - 312px);
 }
 @media (max-width: 991px) {
   .main-inner {
@@ -2669,7 +2669,7 @@ mark.search-keyword {
   }
 }
 .footer-inner {
-  padding-left: 252px;
+  padding-left: 312px;
 }
 @media (max-width: 991px) {
   .footer-inner {
@@ -2776,7 +2776,7 @@ mark.search-keyword {
   position: -webkit-sticky;
   position: sticky;
   top: 12px;
-  width: 240px;
+  width: 300px;
   visibility: hidden;
 }
 @media (max-width: 991px) {
